@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Hanna
+# Hi! 👋 I'm Michael
 
 🎷 I'm a freelance musician and educator actively pivoting into software development — bringing the same discipline, creativity, and problem-solving mindset that shaped my success in performance and teaching.
 
