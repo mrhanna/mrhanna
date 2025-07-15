@@ -4,15 +4,28 @@
 
 💻 I'm a self-taught web developer with a strong focus on **JavaScript/TypeScript**, **React**, and **modern full-stack architecture**. My background includes building solo projects that integrate custom APIs, CMS platforms like **Strapi**, and mobile-first UIs with **Next.js**, **Expo**, and **Tailwind CSS**.
 
-🔨 Projects I've worked on:
-- **Uptown Alive** – a content-rich local business directory powered by Strapi and Next.js
-- **HIIT the Deck** – a React Native fitness app that gamifies workouts with animated card draws
-
 🚀 I'm currently seeking a **junior developer role** where I can grow as part of a collaborative team, continue building great products, and learn from experienced engineers.
 
 📫 Feel free to explore my repos or reach out at **hanna.michaelr@gmail.com**.
 
 ---
+
+## Portfolio
+
+### 🧩 2048 — A React+TypeScript Rebuild
+
+A responsive, accessible, and animation-rich remake of the classic 2048 puzzle game.  
+Built with React + TypeScript + Vite, with custom game logic, reducer-based state, smooth CSS-in-JS transitions, and persistent scores across configurable grid sizes.
+
+🎮 [Live Demo](https://mrhanna.dev/2048) • 🛠️ [Source](https://github.com/mrhanna/2048)
+
+---
+
+🔨 Projects I've worked on:
+- **Uptown Alive** – a content-rich local business directory powered by Strapi and Next.js
+- **HIIT the Deck** – a React Native fitness app that gamifies workouts with animated card draws
+
+I may resurrect these projects and add them to the portfolio soon...
 
 <!--
 **mrhanna/mrhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
