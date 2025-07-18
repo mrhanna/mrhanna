@@ -1,5 +1,7 @@
 # Hi! 👋 I'm Michael
 
+<img src="https://mrhanna.dev/images/logo.svg" align="right" alt="Michael Hanna logo" width="200">
+
 🎷 I'm a freelance musician and educator actively pivoting into software development — bringing the same discipline, creativity, and problem-solving mindset that shaped my success in performance and teaching.
 
 💻 I'm a self-taught web developer with a strong focus on **JavaScript/TypeScript**, **React**, and **modern full-stack architecture**. My background includes building solo projects that integrate custom APIs, CMS platforms like **Strapi**, and mobile-first UIs with **Next.js**, **Expo**, and **Tailwind CSS**.
