@@ -2,32 +2,31 @@
 
 <img src="https://mrhanna.dev/images/logo.svg" align="right" alt="Michael Hanna logo" width="200">
 
-🎷 I'm a freelance musician and educator actively pivoting into software development, bringing the same discipline, creativity, and problem-solving mindset that shaped my success in performance and teaching.
+🎷 I'm a professional musician, educator, and CCNA-certified technologist, bringing a disciplined, analytical mindset to both network infrastructure and software development.
 
-💻 I'm a self-taught developer with a strong focus on **JavaScript/TypeScript**, **React**, and **modern full-stack architecture**. My background includes building solo projects that integrate custom APIs, CMS platforms like **Strapi**, and mobile-first UIs with **Next.js**, **Expo**, and **Tailwind CSS**.
+💻 I am a systems-focused developer with a strong foundation in **JavaScript/TypeScript**, **React**, and **modern full-stack architecture**, alongside a core expertise in routing, switching, and hardware staging. I bridge the gap between software logic and physical network deployment.
 
-🚀 I'm currently seeking a **junior developer role** where I can grow as part of a collaborative team, continue building great products, and learn from experienced engineers.
+🚀 I focus on building reliable technical solutions—whether that means implementing secure network topologies in my homelab or architecting clean application code.
 
 📫 Feel free to explore my repos or reach out at **hanna.michaelr@gmail.com**.
 
 ---
 
-## Portfolio
+## Technical Focus
+
+*   **Networking & Systems:** Cisco IOS, TCP/IP, VLANs, OSPF, WireGuard VPN, Linux (Debian/Ubuntu), Proxmox VE, Synology (RAID).
+*   **Development & Automation:** TypeScript, Next.js, React, PostgreSQL, Bash, Git.
+
+---
+
+## Featured Projects
 
 ### 🧩 2048 — A React+TypeScript Rebuild
 
 A responsive, accessible, and animation-rich remake of the classic 2048 puzzle game.  
-Built with React + TypeScript + Vite, with custom game logic, reducer-based state, smooth CSS-in-JS transitions, and persistent scores across configurable grid sizes.
+Built with React + TypeScript + Vite, featuring custom game logic, reducer-based state, smooth CSS transitions, and persistent scores across configurable grid sizes.
 
 🎮 [Live Demo](https://mrhanna.dev/2048) • 🛠️ [Source](https://github.com/mrhanna/2048)
-
----
-
-🔨 Projects I've worked on:
-- **Uptown Alive** – a content-rich local business directory powered by Strapi and Next.js
-- **HIIT the Deck** – a React Native fitness app that gamifies workouts with animated card draws
-
-I may resurrect these projects and add them to the portfolio soon...
 
 <!--
 **mrhanna/mrhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
