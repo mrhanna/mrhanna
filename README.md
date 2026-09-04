@@ -21,6 +21,12 @@
 
 ## Featured Projects
 
+### 🗓️ SoNA Mentors Visit Scheduler
+
+Streamlines visit scheduling for the symphony's mentors program by solving two primary friction points: navigating complex, non-standard school block schedules, and eliminating personal calendar clutter caused by shared Google Calendars. Built with React + Google Apps Script, layering on top of preexisting internal Google Workspace workflows.
+
+⚡ [Live Demo](https://mrhanna.dev/demos/sona-scheduler) • 🛠️ [Source](https://github.com/mrhanna/sona-scheduler-google)
+
 ### 🧩 2048 — A React+TypeScript Rebuild
 
 A responsive, accessible, and animation-rich remake of the classic 2048 puzzle game.  
