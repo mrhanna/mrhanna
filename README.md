@@ -4,9 +4,9 @@
 
 🎷 I'm a professional musician, educator, and CCNA-certified technologist, bringing a disciplined, analytical mindset to both network infrastructure and software development.
 
-💻 I am a systems-focused developer with a strong foundation in **JavaScript/TypeScript**, **React**, and **modern full-stack architecture**, alongside a core expertise in routing, switching, and hardware staging. I bridge the gap between software logic and physical network deployment.
+💻 I enjoy getting hands-on with technology and understanding how systems work from the physical wire to the UI. My technical work spans network infrastructure, Linux systems, virtualization, automation, and modern web development.
 
-🚀 I focus on building reliable technical solutions—whether that means implementing secure network topologies in my homelab or architecting clean application code.
+🚀 I focus on building reliable solutions and working through problems methodically, whether I'm working through a networking lab, managing infrastructure in my homelab, or writing software to solve a practical problem.
 
 📫 Feel free to explore my repos or reach out at **hanna.michaelr@gmail.com**.
 
@@ -14,12 +14,19 @@
 
 ## Technical Focus
 
-*   **Networking & Systems:** Cisco IOS, TCP/IP, VLANs, OSPF, WireGuard VPN, Linux (Debian/Ubuntu), Proxmox VE, Synology (RAID).
-*   **Development & Automation:** TypeScript, Next.js, React, PostgreSQL, Bash, Git.
+- **Networking & Infrastructure:** Cisco IOS, Arista EOS, IPv4 Subnetting, VLANs, OSPF, BGP, STP, ACLs, DNS/DHCP, NAT, WireGuard VPN
+- **Systems & Automation:** Linux (Debian/Ubuntu), Proxmox VE, NetBox, Ansible, Docker, Git/GitHub, Bash, SSH
+- **Development:** TypeScript, Next.js, React, PostgreSQL, REST APIs, Google Apps Script
 
 ---
 
 ## Featured Projects
+
+### 🌐 Network Labs
+
+A growing collection of hands-on networking labs covering routing, switching, BGP, automation, and Linux networking.
+
+🛠️ [Source](https://github.com/mrhanna/network-labs)
 
 ### 🗓️ SoNA Mentors Visit Scheduler
 
